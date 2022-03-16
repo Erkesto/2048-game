@@ -196,4 +196,4 @@ int main()
     G.printMat();
     return 0;
 }
-//-*-*-*-*-*-*-*
+//fin
