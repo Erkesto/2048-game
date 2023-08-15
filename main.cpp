@@ -1,6 +1,6 @@
 /*Hi guys, we hope you like our 2048 game
- *it was made by Devesh Sharma and Sunny
- *share your high-scores with us on our git-hub ID:
+ *it was made by Devesh Sharma and Dhruv Sethi
+ *share your high scores with us on our git-hub ID:
  */
 #include <iostream>
 #include <cstdlib>
