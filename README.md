@@ -31,4 +31,4 @@ This is a simple implementation of the classic 2048 game in C++, developed from 
 ## Acknowledgments
 This project was inspired by the original **2048 game** created by _Gabriele Cirulli_.
 
-Special thanks to [**Devesh Sharma**](github.com/deveshoo7) for their contributions and collaboration on this project. Check out their [repository](https://github.com/deveshoo7/2048-game) for additional insights and ideas.
+Special thanks to [**Devesh Sharma**](github.com/deveshoo7) for their contributions and collaboration on this project. Check out their [repository](https://github.com/deveshoo7/2048-game) for additional insights and ideas...
